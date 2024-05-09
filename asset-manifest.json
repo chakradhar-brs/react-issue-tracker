@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/chakradhar-brs/react-issue-tracker/static/css/main.5c56f62c.css",
-    "main.js": "/chakradhar-brs/react-issue-tracker/static/js/main.b1675a1e.js",
-    "static/js/453.76c4fe76.chunk.js": "/chakradhar-brs/react-issue-tracker/static/js/453.76c4fe76.chunk.js",
-    "index.html": "/chakradhar-brs/react-issue-tracker/index.html",
-    "main.5c56f62c.css.map": "/chakradhar-brs/react-issue-tracker/static/css/main.5c56f62c.css.map",
-    "main.b1675a1e.js.map": "/chakradhar-brs/react-issue-tracker/static/js/main.b1675a1e.js.map",
-    "453.76c4fe76.chunk.js.map": "/chakradhar-brs/react-issue-tracker/static/js/453.76c4fe76.chunk.js.map"
+    "main.css": "/react-issue-tracker/static/css/main.5c56f62c.css",
+    "main.js": "/react-issue-tracker/static/js/main.aafb4608.js",
+    "static/js/453.76c4fe76.chunk.js": "/react-issue-tracker/static/js/453.76c4fe76.chunk.js",
+    "index.html": "/react-issue-tracker/index.html",
+    "main.5c56f62c.css.map": "/react-issue-tracker/static/css/main.5c56f62c.css.map",
+    "main.aafb4608.js.map": "/react-issue-tracker/static/js/main.aafb4608.js.map",
+    "453.76c4fe76.chunk.js.map": "/react-issue-tracker/static/js/453.76c4fe76.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5c56f62c.css",
-    "static/js/main.b1675a1e.js"
+    "static/js/main.aafb4608.js"
   ]
 }
